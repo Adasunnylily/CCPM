@@ -1,0 +1,116 @@
+{
+    "airplane": [
+        "wings on each side of the fuselage",
+        "cylindrical body",
+        "tail with vertical and horizontal stabilizers",
+        "engines under wings or at rear",
+        "cockpit at the front with windows",
+        "landing gear",
+        "retractable wheels",
+        "rows of windows along the fuselage"
+    ],
+    "automobile": [
+        "four wheels",
+        "four doors",
+        "a windshield at the front",
+        "headlights at the front",
+        "taillights at the rear",
+        "an engine compartment under the hood",
+        "seats",
+        "steering wheel",
+        "side windows",
+        "rearview mirrors",
+        "license plates"
+    ],
+    "bird": [
+        "feathers covering the body",
+        "wings",
+        "beak or bill",
+        "two feet with claws or talons",
+        "feathers",
+        "eyes on the sides of the head",
+        "brightly colored plumage",
+        "distinctive patterns or markings on feathers"
+    ],
+    "cat": [
+        "fur covering the body",
+        "four legs with paws",
+        "sharp retractable claws",
+        "whiskers around the face",
+        "pointed ears",
+        "eyes with slit-shaped pupils",
+        "a long tail",
+        "muzzle with whisker pads",
+        "a small, lithe body"
+    ],
+    "deer": [
+        "four legs with hooves",
+        "covered in fur",
+        "long, thin legs",
+        "large ears",
+        "antlers",
+        "large, brown eyes",
+        "white spots on the coat",
+        "distinctive white tail",
+        "brown, gray, or reddish"
+    ],
+    "dog": [
+        "covered in fur",
+        "a four-legged mammal",
+        "four legs with paws",
+        "tail",
+        "erect or floppy ears",
+        "eyes with round pupils",
+        "a wet nose"
+    ],
+    "frog": [
+        "a green or brown body",
+        "the round, bulging eyes",
+        "webbed feet",
+        "long hind legs for jumping",
+        "eyes on top of the head",
+        "short and wide body"
+    ],
+    "horse": [
+        "a strong, muscular body",
+        "four legs",
+        "hooves",
+        "mane along the neck",
+        "a mane with tail",
+        "distinctive long face",
+        "ears that can move independently",
+        "a long neck"
+    ],
+    "ship": [
+        "masts and rigging",
+        "funnels",
+        "typically made of metal, wood, or composite materials",
+        "a large size",
+        "large sails or engines",
+        "large, elongated hull",
+        "multiple decks"
+    ],
+    "truck": [
+        "a bed for carrying cargo",
+        "a cab for the driver",
+        "a flat front and back",
+        "a grille",
+        "a large, boxy body",
+        "a large, rectangular body",
+        "a tough, durable frame",
+        "four large wheels",
+        "four wheels",
+        "two headlights"
+    ]
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+}
